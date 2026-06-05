@@ -15,7 +15,7 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 *  Ask me about **frontend development, building APIs, and integrating AI models into real-world products.**
 *  Fun fact: **I do my best "rubber duck debugging" by explaining my complex code problems to my favorite fictional book characters.**
 
-*  ---
+ ---
 
 ##  Tech Stack
 
@@ -26,4 +26,13 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 </p>
 
 ---
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=RAKSHEDHA&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RAKSHEDHA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
