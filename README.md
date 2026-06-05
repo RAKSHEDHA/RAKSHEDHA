@@ -35,7 +35,7 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RAKSHEDHA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
----
+
 ##  Featured Projects
 
 | Project | Description | Tech Stack |
