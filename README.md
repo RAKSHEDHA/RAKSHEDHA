@@ -36,7 +36,6 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RAKSHEDHA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 ---
-
 ##  Featured Projects
 
 | Project | Description | Tech Stack |
@@ -45,3 +44,20 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 | **[DEVSEEK](https://github.com/RAKSHEDHA/DEVSEEK)** | An open-source, multi-agent AI search engine utilizing RAG to fetch high-signal technical content and stream markdown-rich answers for developers. | `TypeScript` `RAG Pipeline` `AI Agents` |
 | **[ZeroTrustPR](https://github.com/RAKSHEDHA/ZeroTrustPR)** | An autonomous AI security dashboard leveraging Gemini 2.5 Flash to automatically scan GitHub Pull Requests and detect critical vulnerabilities pre-merge. | `TypeScript` `Gemini 2.5` `Security` |
 | **[PORTFOLIO](https://github.com/RAKSHEDHA/PORTFOLIO)** | My professional portfolio detailing my journey in turning complex architectural problems into clean, powerful code for web and AI applications. | `JavaScript` `Frontend UI` `Animation` |
+
+---
+##  Let's Connect & Work Together
+
+Whether you have an open AI Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!
+
+<p align="left">
+  <a href="https://linkedin.com/in/rakshedha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rakshedhab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/RAKSHEDHA/RAKSHEDHA/blob/main/RAKSHEDHA%20RESUME.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-20232A?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+</p>
