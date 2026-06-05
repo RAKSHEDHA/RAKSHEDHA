@@ -24,3 +24,12 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
     <img src="https://skillicons.dev/icons?i=js,ts,py,pytorch,react,nextjs,tailwind,nodejs,express,postgres,mongodb,aws,vercel,docker,githubactions&perline=8" />
   </a>
 </p>
+
+---
+
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHEDHA&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHEDHA&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" height="150" alt="Top Languages" />
+</p>
