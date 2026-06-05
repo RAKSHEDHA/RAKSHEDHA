@@ -35,4 +35,13 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RAKSHEDHA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+---
 
+##  Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Legal-Counsel-AI](https://github.com/RAKSHEDHA/Legal-Counsel-AI)** | A full-stack agentic workspace designed to automate corporate contract risk analysis, featuring a minimalist Notion-style layout and persistent database. | `Next.js 15` `LangGraph.js` `TypeScript` |
+| **[DEVSEEK](https://github.com/RAKSHEDHA/DEVSEEK)** | An open-source, multi-agent AI search engine utilizing RAG to fetch high-signal technical content and stream markdown-rich answers for developers. | `TypeScript` `RAG Pipeline` `AI Agents` |
+| **[ZeroTrustPR](https://github.com/RAKSHEDHA/ZeroTrustPR)** | An autonomous AI security dashboard leveraging Gemini 2.5 Flash to automatically scan GitHub Pull Requests and detect critical vulnerabilities pre-merge. | `TypeScript` `Gemini 2.5` `Security` |
+| **[PORTFOLIO](https://github.com/RAKSHEDHA/PORTFOLIO)** | My professional portfolio detailing my journey in turning complex architectural problems into clean, powerful code for web and AI applications. | `JavaScript` `Frontend UI` `Animation` |
