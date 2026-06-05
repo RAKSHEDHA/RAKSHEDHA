@@ -14,3 +14,13 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 *  I’m currently learning **new machine learning frameworks and advanced backend optimization.**
 *  Ask me about **frontend development, building APIs, and integrating AI models into real-world products.**
 *  Fun fact: **I do my best "rubber duck debugging" by explaining my complex code problems to my favorite fictional book characters.**
+
+*  ---
+
+##  Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,pytorch,react,nextjs,tailwind,nodejs,express,postgres,mongodb,aws,vercel,docker,githubactions&perline=8" />
+  </a>
+</p>
