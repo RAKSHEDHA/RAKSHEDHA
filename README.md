@@ -27,9 +27,19 @@ I am a Software Engineer bridging the gap between intelligent AI models and scal
 
 ---
 
+---
+
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHEDHA&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHEDHA&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RAKSHEDHA&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RAKSHEDHA&theme=dark&hide_border=true" height="195" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RAKSHEDHA&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAKSHEDHA&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
